@@ -1,6 +1,6 @@
-///	This is a test
-for github\\\
-print "Hello World"
+"""This is a test
+for github"""
+
 
 shopping_list = ["banana", "orange", "apple"]
 
